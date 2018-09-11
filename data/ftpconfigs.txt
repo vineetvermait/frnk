@@ -1,0 +1,2 @@
+eis/Ftp/ftp_server_Test,ftp,127.0.0.1,21,21,username,password
+eis/Ftp/sftp_server_Test,sftp,localhost,22,22,username,password

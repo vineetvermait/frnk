@@ -1,0 +1,25 @@
+ [
+ {
+     "subject": "Alex Mathews",
+     "subjectSpan": [0, 2],
+     "relation": "loves",
+     "relationSpan": [2, 3],
+     "object": "Martha",
+     "objectSpan": [3, 4]
+ },
+ {
+     "subject": "Martha",
+     "subjectSpan": [0, 1],
+     "relation": "loves",
+     "relationSpan": [1, 2],
+     "object": "Jake",
+     "objectSpan": [2, 3]
+ },
+ {
+     "subject": "Jake",
+     "subjectSpan": [0, 1],
+     "relation": "loves",
+     "relationSpan": [1, 2],
+     "object": "Alex",
+     "objectSpan": [2, 3]
+ }]

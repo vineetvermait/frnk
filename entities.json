@@ -1,0 +1,67 @@
+[
+{
+    "docTokenBegin": 0,
+    "docTokenEnd": 2,
+    "tokenBegin": 0,
+    "tokenEnd": 2,
+    "text": "Alex Mathews",
+    "characterOffsetBegin": 0,
+    "characterOffsetEnd": 12,
+    "ner": "PERSON",
+    "sentNum": 1
+},
+{
+    "docTokenBegin": 3,
+    "docTokenEnd": 4,
+    "tokenBegin": 3,
+    "tokenEnd": 4,
+    "text": "Martha",
+    "characterOffsetBegin": 19,
+    "characterOffsetEnd": 25,
+    "ner": "PERSON",
+    "sentNum": 1
+},
+{
+    "docTokenBegin": 5,
+    "docTokenEnd": 6,
+    "tokenBegin": 0,
+    "tokenEnd": 1,
+    "text": "Martha",
+    "characterOffsetBegin": 27,
+    "characterOffsetEnd": 33,
+    "ner": "PERSON",
+    "sentNum": 2
+},
+{
+    "docTokenBegin": 7,
+    "docTokenEnd": 8,
+    "tokenBegin": 2,
+    "tokenEnd": 3,
+    "text": "Jake",
+    "characterOffsetBegin": 40,
+    "characterOffsetEnd": 44,
+    "ner": "PERSON",
+    "sentNum": 2
+},
+{
+    "docTokenBegin": 9,
+    "docTokenEnd": 10,
+    "tokenBegin": 0,
+    "tokenEnd": 1,
+    "text": "Jake",
+    "characterOffsetBegin": 46,
+    "characterOffsetEnd": 50,
+    "ner": "PERSON",
+    "sentNum": 3
+},
+{
+    "docTokenBegin": 11,
+    "docTokenEnd": 12,
+    "tokenBegin": 2,
+    "tokenEnd": 3,
+    "text": "Alex",
+    "characterOffsetBegin": 57,
+    "characterOffsetEnd": 61,
+    "ner": "PERSON",
+    "sentNum": 3
+}]

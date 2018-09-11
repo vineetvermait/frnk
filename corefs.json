@@ -1,0 +1,59 @@
+{
+    "4": [
+    {
+        "id": 1,
+        "text": "Martha",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 4,
+        "endIndex": 5,
+        "headIndex": 4,
+        "sentNum": 1,
+        "position": [1, 2],
+        "isRepresentativeMention": true
+    },
+    {
+        "id": 3,
+        "text": "She",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 1,
+        "endIndex": 2,
+        "headIndex": 1,
+        "sentNum": 2,
+        "position": [2, 2],
+        "isRepresentativeMention": false
+    },
+    {
+        "id": 5,
+        "text": "She",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 1,
+        "endIndex": 2,
+        "headIndex": 1,
+        "sentNum": 3,
+        "position": [3, 2],
+        "isRepresentativeMention": false
+    },
+    {
+        "id": 4,
+        "text": "Alex.",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "UNKNOWN",
+        "animacy": "ANIMATE",
+        "startIndex": 3,
+        "endIndex": 4,
+        "headIndex": 3,
+        "sentNum": 3,
+        "position": [3, 1],
+        "isRepresentativeMention": false
+    }]
+}
